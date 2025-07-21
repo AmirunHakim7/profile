@@ -1,6 +1,6 @@
 # Portfolio Website - Muhammad Amirun Hakim
 
-![Portfolio Screenshot](images/screenshot.png)
+![Portfolio Screenshot](images/yun.png)
 
 A modern, responsive portfolio website showcasing my skills, experience, and projects as an IT Professional, Web Developer, and QA Engineer.
 
